@@ -7,3 +7,12 @@ C:\Users\Cipri\source\repos\Lab3 Criptography\Lab3 Criptography\obj\Debug\Lab3_C
 C:\Users\Cipri\source\repos\Lab3 Criptography\Lab3 Criptography\obj\Debug\Lab3 Criptography.csproj.GenerateResource.cache
 C:\Users\Cipri\source\repos\Lab3 Criptography\Lab3 Criptography\obj\Debug\Lab3 Criptography.exe
 C:\Users\Cipri\source\repos\Lab3 Criptography\Lab3 Criptography\obj\Debug\Lab3 Criptography.pdb
+C:\Users\Cipri\Source\Repos\Lab3 Cryptography\Lab3 Criptography\bin\Debug\Lab3 Criptography.exe.config
+C:\Users\Cipri\Source\Repos\Lab3 Cryptography\Lab3 Criptography\bin\Debug\Lab3 Criptography.exe
+C:\Users\Cipri\Source\Repos\Lab3 Cryptography\Lab3 Criptography\bin\Debug\Lab3 Criptography.pdb
+C:\Users\Cipri\Source\Repos\Lab3 Cryptography\Lab3 Criptography\obj\Debug\Lab3 Criptography.csprojAssemblyReference.cache
+C:\Users\Cipri\Source\Repos\Lab3 Cryptography\Lab3 Criptography\obj\Debug\Lab3_Criptography.Form1.resources
+C:\Users\Cipri\Source\Repos\Lab3 Cryptography\Lab3 Criptography\obj\Debug\Lab3_Criptography.Properties.Resources.resources
+C:\Users\Cipri\Source\Repos\Lab3 Cryptography\Lab3 Criptography\obj\Debug\Lab3 Criptography.csproj.GenerateResource.cache
+C:\Users\Cipri\Source\Repos\Lab3 Cryptography\Lab3 Criptography\obj\Debug\Lab3 Criptography.exe
+C:\Users\Cipri\Source\Repos\Lab3 Cryptography\Lab3 Criptography\obj\Debug\Lab3 Criptography.pdb
