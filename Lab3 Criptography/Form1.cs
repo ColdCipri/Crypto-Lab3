@@ -120,7 +120,7 @@ namespace Lab3_Criptography
                 while (cipher.Length > 0)
                 {
                     toDecrypt = Convert.ToInt32(cipher.Substring(0, cipher.IndexOf(' '))); //we use the number we got from the first post to the first occurence of a space
-                    label_result.Text += Utils.convertToString(Utils.binaryPow(toDecrypt,euclidian, n)) + " "; //here we convert to string the result
+                    label_result.Text += Utils.convertToString(Utils.binaryPow(toDecrypt,euclidian, n)); //here we convert to string the result
                     cipher = cipher.Substring(cipher.IndexOf(' ') + 1); //and we get rid of the part we already used.
                 }
 
